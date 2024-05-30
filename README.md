@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dikshita</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshu3586&label=Profile%20views&color=0e75b6&style=flat" alt="dikshu3586" /> </p>
@@ -8,6 +10,16 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **FrontEnd**
+
+- 🌱 I’m currently learning **Develops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Dikshu3586](https://github.com/Dikshu3586)
+
+- 💬 Ask me about **C, C++**
+
+- 📫 How to reach me **dikshita.y.1403@gmail.com**
+
+- ⚡ Fun fact **I am very serious about my Goal's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
